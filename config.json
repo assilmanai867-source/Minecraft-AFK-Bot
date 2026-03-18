@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "munch.mcsh.io",
+  "serverPort": 14441,
+  "botUsername": "MunchBOT",
   "botChunk": 1
 }
