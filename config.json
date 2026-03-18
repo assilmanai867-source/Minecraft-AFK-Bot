@@ -2,5 +2,5 @@
   "serverHost": "munch.mcsh.io",
   "serverPort": 14441,
   "botUsername": "MunchBOT",
-  "botChunk": 1
+  "botChunk": 4
 }
